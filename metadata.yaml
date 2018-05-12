@@ -1,0 +1,42 @@
+_repo: Real-Folks_13997
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whitney, A. D. T. (Adeline Dutton Train)
+    aliases:
+    - Whitney, Mrs. A. D. T.
+    - Whitney, Adeline Dutton Train
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '3859'
+    url: http://www.gutenberg.org/2009/agents/3859
+    wikipedia: http://en.wikipedia.org/wiki/Adeline_Dutton_Train_Whitney
+description: ''
+gutenberg_issued: '2004-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Money -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Play -- Juvenile fiction'
+- !lcsh 'Charity -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Orphanages -- Juvenile fiction'
+- !lcsh 'City and town life -- Juvenile fiction'
+- !lcsh 'Boston (Mass.) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'African Americans -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+title: Real Folks
+url: http://www.gutenberg.org/ebooks/13997
